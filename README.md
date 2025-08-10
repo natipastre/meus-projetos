@@ -24,8 +24,3 @@ Explore meus trabalhos para ver como aplico soluções práticas e modernas em F
 Vamos codar juntos? 💻✨
 
 
-🚀 **Curtiu?** Não deixe de explorar, testar e me dar um feedback! Seu apoio é fundamental para minha evolução como desenvolvedora Front-End.  
-
-🔗 Sinta-se à vontade para entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev/) ou email: natalia.pastre@yahoo.com.br
-
-Vamos codar juntos? 💻✨
