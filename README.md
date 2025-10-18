@@ -1,4 +1,4 @@
-# 🧰 Meus Projetos Front-End
+# 🧰 Meus Projetos 
 
 Nesta coleção, apresento projetos desenvolvidos com foco em **HTML**, **CSS** e **JavaScript**, que demonstram minhas habilidades em criar interfaces responsivas, funcionais e amigáveis. Cada projeto foi pensado para aprimorar conceitos de desenvolvimento web, design e usabilidade, combinando prática e criatividade.
 
