@@ -5,6 +5,7 @@ Nesta coleção, apresento projetos desenvolvidos com foco em **HTML**, **CSS** 
 Explore meus trabalhos para ver como aplico soluções práticas e modernas em Front-End.
 
 ---
+
 | Projeto                         | Descrição                                                                 | Link                                                                 |
 |---------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------|
 | **Cards Responsivos**           | Layout responsivo com três cartões informativos, adaptáveis a diferentes telas. | [Visitar](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/) |
@@ -14,14 +15,15 @@ Explore meus trabalhos para ver como aplico soluções práticas e modernas em F
 | **Formulário Profissional**     | Formulário responsivo com validação e upload de imagem.                   | [Visitar](https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/) |
 | **DevClub Store**               | Landing page com carrossel de produtos Apple, focada em design e usabilidade. | [Visitar](https://natipastre.github.io/DevClub-Store/) |
 | **Website Institucional – LCN Oxigênio** | Site institucional moderno e responsivo para apresentação da empresa LCN Oxigênio. | [Visitar](https://natipastre.github.io/Website-Institucional-LCN-Oxig-nio/) |
-                        |
+| **Calculadora React**           | Calculadora moderna e responsiva com operações matemáticas, criada com React e Vite. | [Visitar](https://natipastre.github.io/Calculadora-react/) |
 
 ---
 
-🚀 **Curtiu?** Não deixe de explorar, testar e me dar um feedback! Seu apoio é fundamental para minha evolução como desenvolvedora Front-End.  
+## 🚀 Curtiu?
 
-🔗 Sinta-se à vontade para entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev/) ou email: natalia.pastre@yahoo.com.br
+Não deixe de explorar, testar e me dar um feedback! Seu apoio é fundamental para minha evolução como desenvolvedora Front-End.  
+
+🔗 Sinta-se à vontade para entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev/) ou email: natalia.pastre@yahoo.com.br  
 
 Vamos codar juntos? 💻✨
-
 
