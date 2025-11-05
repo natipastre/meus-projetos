@@ -8,6 +8,7 @@ Explore meus trabalhos para ver como aplico soluções práticas e modernas em F
 
 | Projeto                         | Descrição                                                                 | Link                                                                 |
 |---------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Estúdio Markdown**             | Editor online desenvolvido em React para escrever e visualizar Markdown em tempo real. Possui tema claro/escuro, exportação para PDF e HTML, e interface moderna e intuitiva. | [Visitar](https://natipastre.github.io/markdown-viewer/) |
 | **Movie Finder**                | Aplicação em React que permite pesquisar filmes e séries, exibindo sinopse, avaliação, trailer e plataformas de streaming. Layout responsivo com modo claro/escuro automático. | [Visitar](https://natipastre.github.io/movie-finder/) |
 | **Calculadora React**           | Calculadora moderna e responsiva com operações matemáticas, criada com React e Vite. | [Visitar](https://natipastre.github.io/Calculadora-react/) |
 | **Cards Responsivos**           | Layout responsivo com três cartões informativos, adaptáveis a diferentes telas. | [Visitar](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/) |
@@ -24,8 +25,6 @@ Explore meus trabalhos para ver como aplico soluções práticas e modernas em F
 
 Não deixe de explorar, testar e me dar um feedback! Seu apoio é fundamental para minha evolução como desenvolvedora Front-End.  
 
-🔗 Sinta-se à vontade para entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev/) ou email: natalia.pastre@yahoo.com.br  
+🔗 Sinta-se à vontade para entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev/) ou email: **natalia.pastre@yahoo.com.br**  
 
 Vamos codar juntos? 💻✨
-
-
